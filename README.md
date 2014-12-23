@@ -1,6 +1,3 @@
-Re-Fraction
-===========
-
 ##Re-Fraction: A machine learning approach for deterministic identification of protein homologs and splice variants in large-scale MS-based proteomics
 
 ###When is Re-Fraction applicable?
