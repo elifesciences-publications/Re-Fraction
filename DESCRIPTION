@@ -1,7 +1,7 @@
 Package: ReFraction
 Type: Package
 Title: a machine learning approach for deterministic identification of protein homologues and splice variants in large-scale MS-based proteomics
-Version: 1.0
+Version: 1.2
 Date: 2012-04-04
 Author: Pengyi Yang
 Maintainer: Pengyi Yang <pengyi.yang at sydney.edu.au>
