@@ -1,10 +1,10 @@
 Package: ReFraction
 Type: Package
-Title: What the package does (short line)
+Title: a machine learning approach for deterministic identification of protein homologues and splice variants in large-scale MS-based proteomics
 Version: 1.0
 Date: 2012-04-04
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Pengyi Yang
+Maintainer: Pengyi Yang <pengyi.yang at sydney.edu.au>
+Description: a machine learning approach for deterministic identification of protein homologues and splice variants in large-scale MS-based proteomics
+License: GPL-3
 Packaged: 2013-11-08 16:36:46 UTC; yangp2
